@@ -284,7 +284,10 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-04-10T00:23:00.346335Z",
+  "generated": "2024-07-18T19:19:42.013970Z",
   "generator": "pub",
-  "generatorVersion": "2.19.3"
+  "generatorVersion": "3.6.0-35.0.dev",
+  "flutterRoot": "file:///Users/modestnerd/Developer/flutter",
+  "flutterVersion": "3.24.0-1.0.pre.104",
+  "pubCache": "file:///Users/modestnerd/.pub-cache"
 }
