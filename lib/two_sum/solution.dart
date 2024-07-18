@@ -30,7 +30,3 @@ class Solution {
     throw ArgumentError('Value not found');
   }
 }
-
-void main() {
-  print(Solution().twoSum([3, 2, 4], 6));
-}
